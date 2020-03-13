@@ -1,0 +1,14 @@
+{
+  "Config": {
+    "p1": {"PackageId":"p1","PackageName":"Nạp GEM","Web":20000,"Google":22000,"Ios":22000,"Gem":200,"GemFirst":200},
+    "p2": {"PackageId":"p2","PackageName":"Nạp GEM","Web":50000,"Google":69000,"Ios":69000,"Gem":500,"GemFirst":500},
+    "p3": {"PackageId":"p3","PackageName":"Nạp GEM","Web":100000,"Google":109000,"Ios":109000,"Gem":1000,"GemFirst":1000},
+    "p4": {"PackageId":"p4","PackageName":"Nạp GEM","Web":200000,"Google":219000,"Ios":219000,"Gem":2000,"GemFirst":2000},
+    "p5": {"PackageId":"p5","PackageName":"Nạp GEM","Web":500000,"Google":549000,"Ios":549000,"Gem":5000,"GemFirst":5000},
+    "p6": {"PackageId":"p6","PackageName":"Nạp GEM","Web":1000000,"Google":1099000,"Ios":1099000,"Gem":10000,"GemFirst":10000},
+    "p7": {"PackageId":"p7","PackageName":"Nạp GEM","Web":2000000,"Google":2999000,"Ios":2999000,"Gem":20000,"GemFirst":20000},
+    "p8": {"PackageId":"p8","PackageName":"Thẻ Tuần","Web":50000,"Google":69000,"Ios":69000,"Gem":250,"GemFirst":0},
+    "p9": {"PackageId":"p9","PackageName":"Thẻ Tháng","Web":100000,"Google":109000,"Ios":149000,"Gem":500,"GemFirst":0},
+    "p10": {"PackageId":"p10","PackageName":"Quỹ Trưởng Thành","Web":200000,"Google":219000,"Ios":279000,"Gem":2000,"GemFirst":0}
+  }
+}

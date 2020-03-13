@@ -1,0 +1,5 @@
+{
+  "addr": "localhost:8080",
+  "environment": "LOCAL",
+  "environment_exam": "LOCAL, DEV, PRODUCTION"
+}

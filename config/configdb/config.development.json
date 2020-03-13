@@ -1,0 +1,72 @@
+{
+  "DB": {
+    "main": {
+      "host": "192.168.88.253",
+      "port": 3306,
+      "username": "devuser",
+      "password": "Pokidev@@@123",
+      "dbname": "pokiwarh5",
+      "dbdriver": "mysql",
+      "dbprefix": "",
+      "charset": "utf8",
+      "maxidle": 10,
+      "maxopen": 100
+    }
+  },
+  "Redis": {
+    "info": {
+      "network": "tcp",
+      "addr": "192.168.88.253:6379",
+      "password": "",
+      "database": "0",
+      "maxidle": 0,
+      "maxactive": 0,
+      "idletimeout": 5,
+      "prefix": ""
+    },
+    "session": {
+      "network": "tcp",
+      "addr": "192.168.88.253:6379",
+      "password": "",
+      "database": "1",
+      "maxidle": 0,
+      "maxactive": 0,
+      "idletimeout": 5,
+      "prefix": ""
+    },
+    "config": {
+      "network": "tcp",
+      "addr": "192.168.88.253:6379",
+      "password": "",
+      "database": "2",
+      "maxidle": 0,
+      "maxactive": 0,
+      "idletimeout": 5,
+      "prefix": ""
+    },
+    "bug": {
+      "network": "tcp",
+      "addr": "192.168.88.253:6379",
+      "password": "",
+      "database": "3",
+      "maxidle": 0,
+      "maxactive": 0,
+      "idletimeout": 5,
+      "prefix": ""
+    },
+    "ccu": {
+      "network": "tcp",
+      "addr": "192.168.88.253:6379",
+      "password": "",
+      "database": "4",
+      "maxidle": 0,
+      "maxactive": 0,
+      "idletimeout": 5,
+      "prefix": ""
+    }
+  },
+  "MongoConnect": "mongodb://127.0.0.1:27017/?retryWrites=true",
+  "MongoConnectLocal": "mongodb://192.168.88.253:27017/log?retryWrites=true"
+}
+
+

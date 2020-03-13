@@ -1,0 +1,6 @@
+{
+  "AppKey": "75667d2e00b9551d9ac5bdaba56dfee9",
+  "SecretKey": "45fd6803d2aa934afbf78faddbca55bf",
+  "SecretKeyPayment": "86730d69d20abc6bd48a31b6c0dd52d7",
+  "API": "https://apisdk.kul.vn/user/getby-accesstoken.html"
+}
